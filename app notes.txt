@@ -1,0 +1,16 @@
+app notes
+คลิกขวาสร้าง package
+
+- models
+	note.dart
+- screens
+	note_detail.dart
+	note_list.dart
+- utils
+	database_helper.dart
+
+
+เพิ่ม dependencies ไฟล์ pubspec.yaml
+- sqflite: any
+- path_provider: any
+- intl: ^0.15.7

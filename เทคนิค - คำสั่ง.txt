@@ -1,0 +1,27 @@
+ctrl + F  //.* ลบคอมเม้นอย่างไว
+ctrl + shife + - ย่อโค้ด
+alt + w 2 ครั้ง เป็นการลบอย่างไว
+stf = statefulwidget
+ctrl + alt + l จัดฟอร์แมด
+
+
+-------------------------------------------
+เทคนิดเรียนให้มีประสิทธภาพ
+- oop ***
+- native skill
+- tool
+- git
+- flutter awesome
+
+- steup and run
+- widget > UI
+- network
+- json
+- staus code
+- http method
+- https
+- header
+- token
+
+- solution
+Bloc
